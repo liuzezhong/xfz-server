@@ -1,0 +1,116 @@
+[ 2017-10-23T22:34:37+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findUserGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000747s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-10-23T22:34:37+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=wxlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( openid = 'ovZ4O0X2Dn2mFAPvSBZ-VmUflykI' ) LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: unionid /Work/wwwroot/xiaofenzu/Application/Sapp/Controller/LoginController.class.php 第 80 行.
+SQL: UPDATE `xfz_session` SET `session3key`='MmpohmdxR9aKIKYQ',`session_key`='qzd8WRa3L/gK122EN4Bxmg==',`unionid`=NULL,`create_time`='1508769277' WHERE ( openid = 'ovZ4O0X2Dn2mFAPvSBZ-VmUflykI' ) [ RunTime:0.0069s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-23T22:34:39+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'MmpohmdxR9aKIKYQ' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-23T22:34:39+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findUserGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'MmpohmdxR9aKIKYQ' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( user_id = 1 )  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0017s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 2 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-10-23T22:34:45+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=saveUserInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'MmpohmdxR9aKIKYQ' ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: UPDATE `xfz_user` SET `nickName`='刘泽中',`gender`='1',`city`='',`province`='',`country`='China',`avatarUrl`='https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83epgyBDKU622NWH98jk4UWvGzad8wBMSTj8xHj7Mx2lkHVWq2G7QkQbiavZzgYI0ATecsxlsl4gMyqA/0' WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) [ RunTime:0.0009s ]
+
+[ 2017-10-23T22:34:45+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000218s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-23T22:34:55+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=saveUserInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'MmpohmdxR9aKIKYQ' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `xfz_user` SET `nickName`='刘泽中',`gender`='1',`city`='',`province`='',`country`='China',`avatarUrl`='https://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83epgyBDKU622NWH98jk4UWvGzad8wBMSTj8xHj7Mx2lkHVWq2G7QkQbiavZzgYI0ATecsxlsl4gMyqA/0' WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) [ RunTime:0.0006s ]
+
+[ 2017-10-23T22:34:55+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000538s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+

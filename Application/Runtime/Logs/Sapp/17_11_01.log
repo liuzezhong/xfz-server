@@ -1,0 +1,215 @@
+[ 2017-11-01T22:13:02+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0013s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = '8VFEP6taCGnrulQW' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-11-01T22:13:02+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=group&a=findUserGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = '8VFEP6taCGnrulQW' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( user_id = 1 )  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 2 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-11-01T22:13:06+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000561s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = '8VFEP6taCGnrulQW' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 26 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_member` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `xfz_member` WHERE `group_id` = 26 LIMIT 6   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_user` WHERE `user_id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-11-01T22:13:11+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=member&a=listMemberOfGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+SQL: SHOW COLUMNS FROM `xfz_member` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `xfz_member` WHERE `group_id` = 26  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_user` WHERE `user_id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-01T22:13:13+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=user&a=getUserInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000249s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `xfz_user` WHERE `user_id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-11-01T22:13:15+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=user&a=changeFlightValue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: UPDATE `xfz_user` SET `flight_value`='54' WHERE `user_id` = 1 [ RunTime:0.0056s ]
+
+[ 2017-11-01T22:13:17+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=member&a=listMemberOfGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `xfz_member` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_member` WHERE `group_id` = 26  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_user` WHERE `user_id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-11-01T22:13:18+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = '8VFEP6taCGnrulQW' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 26 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_member` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_member` WHERE `group_id` = 26 LIMIT 6   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_user` WHERE `user_id` = 1 LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-11-01T22:13:22+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = '8VFEP6taCGnrulQW' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 26 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `xfz_member` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_member` WHERE `group_id` = 26 LIMIT 6   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_user` WHERE `user_id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-11-01T22:13:23+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000246s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = '8VFEP6taCGnrulQW' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 26 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_member` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_member` WHERE `group_id` = 26 LIMIT 6   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_user` WHERE `user_id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-11-01T22:13:25+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-11-01T22:13:25+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = '8VFEP6taCGnrulQW' ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 26 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_member` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_member` WHERE `group_id` = 26 LIMIT 6   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_user` WHERE `user_id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-11-01T22:13:26+08:00 ] 192.168.2.237 /xiaofenzu/index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = '8VFEP6taCGnrulQW' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 26 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `xfz_member` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `xfz_member` WHERE `group_id` = 26 LIMIT 6   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `xfz_user` WHERE `user_id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+

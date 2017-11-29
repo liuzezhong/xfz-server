@@ -1,0 +1,1635 @@
+[ 2017-10-03T12:16:26+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000823s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0022s ]
+
+[ 2017-10-03T12:16:26+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0010s ]
+
+[ 2017-10-03T12:18:25+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:18:25+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-10-03T12:18:39+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:18:39+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000228s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T12:19:17+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000307s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:19:17+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T12:19:40+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T12:19:40+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T12:19:54+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:19:54+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0007s ]
+
+[ 2017-10-03T12:19:55+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000226s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:19:55+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T12:20:37+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T12:20:37+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:24:02+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T12:24:02+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0003s ]
+
+[ 2017-10-03T12:28:32+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0003s ]
+
+[ 2017-10-03T12:28:32+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:29:19+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:29:19+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T12:32:41+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:32:41+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:33:00+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:33:00+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:40:29+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-10-03T12:46:09+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T12:57:58+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-10-03T12:57:58+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T12:58:47+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('社会哥哥','10','1','0','1','1','1507006727','1507006727') [ RunTime:0.0075s ]
+ERR: Think\Controller:ajaxRetrun方法不存在！
+
+[ 2017-10-03T12:59:33+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] Undefined index: groupInfo /Work/wwwroot/xiaofenzu/Application/Sapp/Controller/GroupController.class.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000688s ]
+
+[ 2017-10-03T13:00:17+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000456s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('社会哥哥','10','1','0','1','1','1507006817','1507006817') [ RunTime:0.0055s ]
+
+[ 2017-10-03T13:00:29+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000416s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('社会哥哥','10','1','1','1','1','1507006829','1507006829') [ RunTime:0.0004s ]
+
+[ 2017-10-03T13:09:31+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('社会哥哥','10','1','1','1','1','1507007371','1507007371') [ RunTime:0.0059s ]
+
+[ 2017-10-03T13:10:05+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T13:10:05+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000254s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:14:39+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T13:14:40+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000741s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:20:31+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000459s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:20:31+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:21:07+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-10-03T13:21:07+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:21:14+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('555','444','0','0','1','1','1507008074','1507008074') [ RunTime:0.0056s ]
+
+[ 2017-10-03T13:21:58+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T13:21:58+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0003s ]
+
+[ 2017-10-03T13:22:13+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:22:13+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:22:18+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('121','312','0','0','1','1','1507008138','1507008138') [ RunTime:0.0054s ]
+
+[ 2017-10-03T13:22:28+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:22:28+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000308s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:22:43+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:22:43+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:22:51+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0005s ]
+SQL: INSERT INTO `xfz_group` (`number`,`leader`,`sex`,`style_id`,`name`,`user_id`,`create_time`,`update_time`) VALUES ('2323','0','0','1','2323','1','1507008171','1507008171') [ RunTime:0.0057s ]
+
+[ 2017-10-03T13:23:21+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000207s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000232s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:23:21+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T13:24:29+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T13:24:29+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000350s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:32:18+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:32:18+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0015s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2017-10-03T13:38:15+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000493s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('12','13','0','0','1','1','1507009095','1507009095') [ RunTime:0.0062s ]
+
+[ 2017-10-03T13:38:15+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-10-03T13:39:04+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000263s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0003s ]
+
+[ 2017-10-03T13:39:04+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000273s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:39:06+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000565s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('1212','1312','0','0','1','1','1507009146','1507009146') [ RunTime:0.0056s ]
+
+[ 2017-10-03T13:39:07+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 9 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:39:53+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T13:39:53+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T13:40:14+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000274s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0003s ]
+
+[ 2017-10-03T13:40:14+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:13:06+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010074s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:13:06+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0011s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0007s ]
+
+[ 2017-10-03T17:13:23+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:13:23+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0012s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-10-03T17:14:02+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:14:02+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000261s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000293s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:21:10+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('2e3','232','0','1','1','1','1507022470','1507022470') [ RunTime:0.0009s ]
+
+[ 2017-10-03T17:21:10+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 10 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:24:15+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:24:15+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000192s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:24:55+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:24:55+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:27:46+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000239s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:27:46+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000895s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:27:59+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('abcdefg','33','1','0','2','1','1507022879','1507022879') [ RunTime:0.0005s ]
+
+[ 2017-10-03T17:27:59+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000245s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 11 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 2 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:33:06+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:33:07+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:33:33+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000281s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('小确幸','2','0','1','1','1','1507023213','1507023213') [ RunTime:0.0011s ]
+
+[ 2017-10-03T17:33:33+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 12 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 1 ) LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:39:08+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:39:08+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000294s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-10-03T17:40:07+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:40:07+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000314s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:40:18+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('5678','67','0','1','0','1','1507023618','1507023618') [ RunTime:0.0008s ]
+
+[ 2017-10-03T17:40:19+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 13 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:41:39+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:41:39+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000396s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:41:53+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:41:53+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000243s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:42:12+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:42:12+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000257s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:42:16+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('1212','12','1','0','0','1','1507023736','1507023736') [ RunTime:0.0004s ]
+
+[ 2017-10-03T17:42:17+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 14 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:43:03+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000176s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:43:03+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:43:18+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:43:18+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:43:19+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:43:19+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:44:30+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('44','0','1','0','0','1','1507023870','1507023870') [ RunTime:0.0005s ]
+
+[ 2017-10-03T17:44:30+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 15 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:45:08+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:45:08+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:46:02+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000295s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:46:02+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:46:11+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('23','1','1','0','0','1','1507023971','1507023971') [ RunTime:0.0004s ]
+
+[ 2017-10-03T17:46:11+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 16 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:47:25+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:47:25+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:47:29+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('213','1313','0','0','0','1','1507024049','1507024049') [ RunTime:0.0004s ]
+
+[ 2017-10-03T17:47:29+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 17 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:47:49+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:47:49+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000299s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:47:49+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:47:52+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('2323','2323','0','0','0','1','1507024072','1507024072') [ RunTime:0.0005s ]
+
+[ 2017-10-03T17:47:53+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 18 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:49:28+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:49:28+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000265s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:49:37+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:49:37+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000337s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:49:40+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000255s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0003s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('333','33','0','0','0','1','1507024180','1507024180') [ RunTime:0.0004s ]
+
+[ 2017-10-03T17:49:41+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 19 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:50:55+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000302s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:50:55+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:52:24+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000305s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:52:24+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:53:01+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000247s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:53:01+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:53:45+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:53:45+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:54:45+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:54:46+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000296s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:55:01+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001052s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2017-10-03T17:55:01+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:55:02+08:00 ] 127.0.0.1 /index.php?m=sapp&c=style&a=getAllStyle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000335s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_style`  [ RunTime:0.0001s ]
+
+[ 2017-10-03T17:55:02+08:00 ] 127.0.0.1 /index.php?m=sapp&c=login&a=checkSession
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000199s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-10-03T17:55:06+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=createGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000210s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0004s ]
+SQL: INSERT INTO `xfz_group` (`name`,`number`,`leader`,`sex`,`style_id`,`user_id`,`create_time`,`update_time`) VALUES ('2323','232','0','0','0','1','1507024506','1507024506') [ RunTime:0.0004s ]
+
+[ 2017-10-03T17:55:07+08:00 ] 127.0.0.1 /index.php?m=sapp&c=group&a=findGroup
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `xfz_session` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_session` WHERE ( session3key = 'ugGKh25hsRIfKvrh' ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `xfz_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `xfz_user` WHERE ( openid = "ovZ4O0X2Dn2mFAPvSBZ-VmUflykI" ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `xfz_group` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `xfz_group` WHERE ( group_id = 20 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `xfz_style` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `xfz_style` WHERE ( style_id = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+
